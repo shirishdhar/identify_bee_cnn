@@ -127,3 +127,15 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Zip files
+.zip
+
+# CSV files
+.csv
+
+# Model snapshots
+.pkl
+.h5
+
+.DS_Store
